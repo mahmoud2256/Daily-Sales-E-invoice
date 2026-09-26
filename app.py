@@ -36,7 +36,7 @@ st.markdown("""
     <div style="width:52px;height:52px;background:#2563EB;border-radius:12px;display:flex;align-items:center;justify-content:center;font-size:26px;">🧾</div>
     <div><div style="font-size:24px;font-weight:800;color:#F8FAFC;">Daily Sales E-invoice</div><div style="font-size:12px;color:#94A3B8;">ETA Portal Converter • Full Dashboard v18 - Tax Auto-Detect Fixed</div></div>
   </div>
-  <div style="text-align:right;"><div style="color:#F8FAFC;font-size:13px;font-weight:700;">Developed by Mahmoud Amin</div><div style="color:#22C55E;font-size:11px;">v18 Full + Tax Fixed</div></div>
+  <div style="text-align:right;"><div style="color:#F8FAFC;font-size:13px;font-weight:700;">Developed by Mahmoud Amin</div><div style="color:#22C55E;font-size:11px;"
 </div>
 """, unsafe_allow_html=True)
 
