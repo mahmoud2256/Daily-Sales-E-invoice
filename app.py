@@ -181,7 +181,7 @@ with c4:
     st.markdown('<div class="card"><h4>📄 Empty Template File</h4><p>التمبلت الفاضي - ETA - سيتم ملؤه مباشرة بنفس الشكل الأصلي (أصفر+أخضر+أزرق)</p><span class="badge badge-tpl">Template - Required</span></div>', unsafe_allow_html=True)
     template_file=st.file_uploader("template",type=["xlsx"],key="f4",label_visibility="collapsed")
 with c5:
-    st.markdown('<div class="card"><h4>✅ Transaction Validation File</h4><p>Customer invoice journal - Invoice one line - للتحقق من المبالغ</p><span class="badge badge-val">Validation - Recommended</span></div>', unsafe_allow_html=True)
+    st.markdown('<div class="card"><h4>✅ Transaction Validation File</h4><p>Customer invoice journal - Invoice one line </p><span class="badge badge-val">Validation - Recommended</span></div>', unsafe_allow_html=True)
     trans_file=st.file_uploader("trans",type=["xlsx","xls","csv"],key="f5",label_visibility="collapsed")
 
 st.markdown("---")
